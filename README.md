@@ -1,6 +1,6 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="https://github.com/trentnewman/trentnewman/raw/main/banner.png" alt="banner" style="max-width: 100%;">
+  <img src="./assets/banner2.jpg" alt="banner" style="max-width: 100%;">
 </p>
 
 <!-- Intro -->
@@ -36,9 +36,8 @@ I build custom bioinformatics workflows, study gene regulation and evolution, an
 
 ---
 
-### 📫 Get in Touch
+### 📫 Contact
 
-- Email: [tacnewman@gmail.com](mailto:tacnewman@gmail.com)  
 - ORCID: [0000-0002-6767-1429](https://orcid.org/0000-0002-6767-1429)  
 - LinkedIn: [linkedin.com/in/tacnewman](https://www.linkedin.com/in/tacnewman)
 
